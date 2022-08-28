@@ -1,3 +1,13 @@
+# polit_sent.py nimmt die von politSplitToYear.py erzeugten 2 Dateien als Eingabe und gibt verdichtete Daten aus:
+.
+.
+.
+c758046b36cbea162f559fff1ab39f18 2017-02-24T20:17:56Z -0.9998 2017
+7d2a0432-ea4a-11e6-bf6f-301b6b443624 2017-02-04T00:28:20Z -0.9998 2017
+2016: von 1908 Artikeln waren 1392 (72%) positiv und 516 (28%) negativ
+2017: von 1368 Artikeln waren 999 (73%) positiv und 369 (27%) negativ
+###
+
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
