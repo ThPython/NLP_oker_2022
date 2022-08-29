@@ -1,3 +1,6 @@
+# Neue Filterung nach einem selbst erstelltem dictionary
+# Alle notwendigen Daten liegen auf Sciebo. 
+
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
