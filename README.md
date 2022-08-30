@@ -5,11 +5,11 @@ Gruppenmitglieder: Ismail Arda, Burghardt Thomas und Luca Miliziano
 
 ## Projektbeschreibung
 
+Wie hat sich der Machtwechsel von Barack Obama auf Donald Trump auf die Neutralität der Washington Post, im Jahr 2016 und 2017, ausgewirkt?
+
 ## Thema
 
-Nicht neutrale Sprache:
-
-Nicht-neutrale Sprache besteht aus vielen Aspekten der Sprache, die subjektiv, eigensinnig oder anderweitig eine Bewertung impliziert. Nicht-neutrale Sprache ist besonders problematisch, wenn sie in Dokumenten vorkommt, die behaupten, neutral zu sein.
+Nicht neutrale Sprache
 
 Beispiele für Arbeiten, die nicht-neutrale Sprache untersuchen:
 
@@ -17,11 +17,14 @@ Beispiele für Arbeiten, die nicht-neutrale Sprache untersuchen:
 
 [Linguistic Models for Analyzing and Detecting Biased Language](https://aclanthology.org/P13-1162.pdf)
 
+## Methode:
+Sentimentanalyse:
+
 ## Datensatz
 
 TREC Washington Post Corpus (v4)
 
-##Ressourcen
+## Codes und Datenauszüge
 
 Link zu [Sciebo](https://th-koeln.sciebo.de/apps/files/?dir=/NLP&fileid=676069869).
 
