@@ -3,7 +3,7 @@
 
 Gruppenmitglieder: Ismail Arda, Burghardt Thomas und Luca Miliziano
 
-## Projektbeschreibung
+## Projekt und Forschungsfrage
 
 Wie hat sich der Machtwechsel von Barack Obama auf Donald Trump auf die Neutralität der Washington Post, im Jahr 2016 und 2017, ausgewirkt?
 
@@ -18,6 +18,7 @@ Beispiele für Arbeiten, die nicht-neutrale Sprache untersuchen:
 [Linguistic Models for Analyzing and Detecting Biased Language](https://aclanthology.org/P13-1162.pdf)
 
 ## Methode:
+
 Sentimentanalyse:
 
 ## Datensatz
