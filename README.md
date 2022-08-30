@@ -3,19 +3,19 @@
 
 Gruppenmitglieder: Ismail Arda, Burghardt Thomas und Luca Miliziano
 
+## Projektbeschreibung
+
 ## Thema
 
 Nicht neutrale Sprache:
 
-Nicht-neutrale Sprache besteht aus vielen Aspekten der Sprache, die subjektiv, eigensinnig oder anderweitig eine Bewertung impliziert. Dazu gehört auch die Toxizität, die von Formen der Hassrede wie Rassismus, Unhöflichkeit, profane, beleidigende und aggressive Sprache bis hin zu überpositivem Lob reicht. Nicht-neutrale Sprache ist besonders problematisch, wenn sie in Dokumenten vorkommt, die behaupten, neutral zu sein.
+Nicht-neutrale Sprache besteht aus vielen Aspekten der Sprache, die subjektiv, eigensinnig oder anderweitig eine Bewertung impliziert. Nicht-neutrale Sprache ist besonders problematisch, wenn sie in Dokumenten vorkommt, die behaupten, neutral zu sein.
 
 Beispiele für Arbeiten, die nicht-neutrale Sprache untersuchen:
 
-A Framework for the Computational Linguistic Analysis of Dehumanization
+[A Framework for the Computational Linguistic Analysis of Dehumanization](https://pubmed.ncbi.nlm.nih.gov/33733172/)
 
-Linguistic Models for Analyzing and Detecting Biased Language
-
-## Projektbeschreibung
+[Linguistic Models for Analyzing and Detecting Biased Language](https://aclanthology.org/P13-1162.pdf)
 
 ## Datensatz
 
