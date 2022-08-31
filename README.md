@@ -9,14 +9,6 @@ Wir haben den WaPo Datensatz gewählt und nach politischen Texten, die im Textko
 
 Wie hat sich der Machtwechsel von Barack Obama auf Donald Trump auf die Neutralität der Washington Post, im Jahr 2016 und 2017, ausgewirkt?
 
-## Thema
-
-Nicht neutrale Sprache
-
-Beispiele für Arbeiten, die nicht-neutrale Sprache untersuchen:
-
--[A Framework for the Computational Linguistic Analysis of Dehumanization](https://pubmed.ncbi.nlm.nih.gov/33733172/)
--[Linguistic Models for Analyzing and Detecting Biased Language](https://aclanthology.org/P13-1162.pdf)
 
 ## Methode
 
@@ -30,4 +22,11 @@ TREC Washington Post Corpus (v4)
 
 Link zu [Sciebo](https://th-koeln.sciebo.de/apps/files/?dir=/NLP&fileid=676069869).
 
+## verwandte Themen
+
+Beispiele für Arbeiten, die nicht-neutrale Sprache untersuchen:
+
+-[A Framework for the Computational Linguistic Analysis of Dehumanization](https://pubmed.ncbi.nlm.nih.gov/33733172/)
+
+-[Linguistic Models for Analyzing and Detecting Biased Language](https://aclanthology.org/P13-1162.pdf)
 
