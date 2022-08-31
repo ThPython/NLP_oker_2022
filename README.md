@@ -11,7 +11,7 @@ Forschungsfrage: Wie hat sich der politische Machtwechsel, von Obama zu Trump im
 
 ## Methode
 
-Die Sentimentanalyse ist die Aufgabe, die Polarität eines bestimmten Textes zu klassifizieren. Zum Beispiel kann ein textbasierter Tweet entweder in "positiv", "negativ" oder "neutral" kategorisiert werden. 
+Die Sentiment-analyse ist die Aufgabe, die Polarität eines bestimmten Textes zu klassifizieren. Zum Beispiel kann ein textbasierter Tweet entweder in "positiv", "negativ" oder "neutral" kategorisiert werden. 
 
 ## Datensatz
 
