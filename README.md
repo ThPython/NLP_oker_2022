@@ -6,8 +6,7 @@ Gruppenmitglieder: Ismail Arda, Burghardt Thomas und Luca Miliziano
 ## Projekt und Forschungsfrage
 
 Wir haben den WaPo Datensatz gewählt und nach politischen Texten, die im Textkorpus der Washington Post enthalten waren, gesplittet. Des Weiteren haben wir den Datensatz für 2016 und 2017 separiert und ein weiteres Dictionary eigens erstellt, um den bereits gefilterten Datensatz nochmals zu filtern, um bessere Ergebnisse zu erzielen. Mithilfe der geschriebenen Skripte, welche unter Github und Sciebo zu finden sind, haben wir den Datensatz bearbeitet, um die für uns relevanten Informationen bereitzustellen, die für die Beantwortung unserer Forschungsfrage benötigt werden.
-
-Wie hat sich der Machtwechsel von Barack Obama auf Donald Trump auf die Neutralität der Washington Post, im Jahr 2016 und 2017, ausgewirkt?
+Forschungsfrage: Wie hat sich der politische Machtwechsel, von Obama zu Trump im Jahre 2016 auf 2017, auf die Berichterstattung der Washington Post ausgewirkt? Eine Analyse auf Neutralität der Berichterstattung mittels VADER.
 
 
 ## Methode
