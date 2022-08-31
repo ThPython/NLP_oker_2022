@@ -17,7 +17,7 @@ Beispiele für Arbeiten, die nicht-neutrale Sprache untersuchen:
 
 [Linguistic Models for Analyzing and Detecting Biased Language](https://aclanthology.org/P13-1162.pdf)
 
-## Methode:
+## Methode
 
 Sentimentanalyse:
 
