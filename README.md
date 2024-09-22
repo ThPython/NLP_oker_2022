@@ -16,10 +16,10 @@ Neutralität der Sprache der Washington Post.
 
 ## VADER
 
-Die Sentiment-analyse ist die Aufgabe, die Polarität eines bestimmten Textes zu klassifizieren. Zum Beispiel kann ein textbasierter Tweet entweder in "positiv", 
-"negativ" oder "neutral" kategorisiert werden. VADER (Valence Aware Dictionary and sEntiment Reasoner) ist ein Tool zur Sentiment-Analyse. VADER bietet einen 
-”normalisierten, gewichteten Composite Score” von -1 bis 1, wobei -1 bedeutet, dass der Inhalt wirklich negativ ist, und 1 bedeutet, dass der Inhalt wirklich 
-positiv ist. Bei der Durchführung von Verarbeitungsaufgaben in natürlicher Sprache ist es üblich, mehrere Vorverarbeitungsarbeiten durchzuführen
+Vader (Valence Aware Dictionary and sEntiment Reasoner) ist ein lexikonbasierter Ansatz zur Sentimentanalyse, der die Stimmung von Texten beurteilt. Es verwendet ein speziell entwickeltes Wörterbuch, das sowohl positive als auch negative Bewertungen für Wörter und Phrasen enthält, um die allgemeine Stimmung eines Textes zu bestimmen. Ein textbasierter Tweet kann entweder in "positiv", 
+"negativ" oder "neutral" kategorisiert werden. Vader bietet einen ”normalisierten, gewichteten Composite Score” von -1 bis 1, wobei -1 bedeutet, dass der Inhalt wirklich negativ ist, und 1 bedeutet, dass der Inhalt wirklich positiv ist.
+
+VAder berücksichtigt auch Intensität und Kontext, um die Sentimentbewertung präziser zu gestalten. Es eignet sich besonders gut für die Analyse von sozialen Medien und kurzen Texten, da es schnell und effizient arbeitet. Durch die Bereitstellung von Sentimentwerten ermöglicht VAder es Nutzern, die emotionale Tendenz von Inhalten zu verstehen und zu quantifizieren.
 
 ## Datensatz
 
